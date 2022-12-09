@@ -1,10 +1,11 @@
 # Marvel's History Analysis
+![alt text](https://github.com/zyadbarghout/Marvel-s-History-Analysis/blob/main/Marvel%20Through%20the%20years/Marvel%20Cover%20.jpg)
+
 Maybe you are a superhero fan maybe you are not but either way lately you have witnessed great success in the Marvel Cinematic Universe (MCU)
 It was obvious that the MCU movies gained very huge popularity over the past two decades
 
 So, One day I had a question
 * When did Marvel become this GOOD? and HOW? 
-![alt text](https://github.com/zyadbarghout/Marvel-s-History-Analysis/blob/main/Marvel%20Through%20the%20years/Marvel%20Cover%20.jpg)
 So, I did what any data nerd would do, I searched for and analyzed some of Marvel’s data that helped them adapt and change their strategy over the years since the 40s.
 I am very excited to share the data with you, keep an eye on the visuals to get the whole picture. 
 
