@@ -26,6 +26,6 @@ Do characters have to be bad or good ?
 Marvel was all about presenting two main characters, good and bad. A very small percentage are neutral characters. During the 50s, Marvel decided to increase the percentage of neutral characters by almost double.
 
 The percentage kept on increasing throughout the years to reach 23% of all marvel characters or even more after being at just 4% in the 40s.
-This pump was really noticed after the 70s decade and the neutral characters percentage continued to increase against especially the bad characters percentages which declined from 61% at the 40s to  35-43% at the latest in the last decade 
+This pump was really noticed after the 70s decade and the neutral characters percentage continued to increase against especially the bad characters percentages which declined from 61% at the 40s to  35-43% at the latest decades 
 ![alt text](https://github.com/zyadbarghout/Marvel-s-History-Analysis/blob/main/Marvel%20Through%20the%20years/Marvel%20Aligns.jpg)
 Marvel realized throughout the years the importance of data analysis and how they could use it perfectly to help them achieve more and reach the people better. Data and Data Analysis plays a huge role in the decision making process in big companies such as Marvel and nowadays, Data analysis is what makes great companies GREAT!
